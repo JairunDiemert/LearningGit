@@ -1,7 +1,7 @@
 # Lab 1
 
 ## Purpose
-The purpose of this lab is to get hands-on experience with Github and create and submit a Hello World style application for my review.
+The purpose of this lab is to get hands-on experience with Github and create and submit a Hello World style application for the instructor's  review.
 
 ## Github
 Here is a cheat sheet of git commands that will be helpful in working with the git version control system. [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -16,8 +16,8 @@ This will create a directory called lab-1-YOUR_NAME that will contain this READM
 
 * If you haven't already configured git, do so by adding your name and email, at a minimum.
 For example, type the following (substitute your details for mine):\
-`git config --global user.name "Steven Bitner"`\
-`git config --global user.email sbitner@uwf.edu`\
+`git config --global user.name "Amitabh Mishra"`\
+`git config --global user.email amishra@uwf.edu`\
 **Please use your UWF email account, not a personal one.**
 **Also, please use the name that you used to register for the class.
 This will allow me to properly attribute your work to you in the grade book in Canvas.**
@@ -32,10 +32,10 @@ _If you use git for work or other things and do not want your UWF email address 
 Using a text editor of your choice, create a Hello World application that prints your Github handle, followed by a colon and your last name, first name in camel case.
 On a new line, begin printing the numbers 1 through 100.
 Each fifth number, add a new line.
-Your output should look something like this:
+Your output should look something like this, with the difference that the first line should have your GitHub handle and name:
 
 ```
-sbitbot:BitnerSteven
+amishra1024:MishraAmitabh
 1 2 3 4 5
 6 7 8 9 10
 ...
