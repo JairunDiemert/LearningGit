@@ -7,7 +7,7 @@ The purpose of this lab is to get hands-on experience with Github and create and
 Here is a cheat sheet of git commands that will be helpful in working with the git version control system. [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 If you haven't already created a directory on your PC for the work you'll do in this course, do so now.
 
-* Now, go to [Lab-1]()
+* Now, go to [Lab-1](https://classroom.github.com/a/9kYyYmIB)
 * Click "Accept this assignment". This will create a new private repository in Github for you to submit your work.
 * Near the top right of your browser, you'll see a green "Clone or download" button.
 	Click the button to copy the URL.
