@@ -16,7 +16,7 @@ This will create a directory called lab-1-YOUR_NAME that will contain this READM
 
 * If you haven't already configured git, do so by adding your name and email, at a minimum.
 For example, type the following (substitute your details for mine):\
-`git config --global user.name "Amitabh Mishra"`\
+`git config --global user.name "Dr. Amitabh Mishra"`\
 `git config --global user.email amishra@uwf.edu`\
 **Please use your UWF email account, not a personal one.**
 **Also, please use the name that you used to register for the class.
